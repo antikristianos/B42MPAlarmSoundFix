@@ -1,0 +1,34 @@
+{
+  "JavaRelease": 17,
+  "JarName": "B42MPAlarmSoundFix.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/b42mpalarmsoundfix/AlarmOwnerFix.class",
+      "Size": 1300,
+      "Sha256": "7A8D49D53F29A6FDD69163553813865503A43EDB97EAB4847C5E710C7820CB2C"
+    },
+    {
+      "Path": "antikristianos/b42mpalarmsoundfix/Main.class",
+      "Size": 1270,
+      "Sha256": "F1218C75480D7336153C0ADC71C53D8D7349E1F8A926D910CC0C340769FE45CF"
+    },
+    {
+      "Path": "antikristianos/b42mpalarmsoundfix/PatchAlarmOwner.class",
+      "Size": 1414,
+      "Sha256": "76896E61BCA3209596FD58AF611A0FB664ABBE816DBF02C33D5A5D7357ED9DEE"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 66254409,
+      "Sha256": "90C54B84EBC160AE053CBEFE30C7713826CA4FDB4934FDE53C9EBDE0FF9892F3"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491692,
+      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+    }
+  ]
+}
