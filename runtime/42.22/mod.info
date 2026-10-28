@@ -1,0 +1,13 @@
+name=[B42] Vanilla MP Alarm Sound Fix (WIP)
+id=B42MPAlarmSoundFix_WIP
+author=Antikristianos
+description=Optional Hi-Res-Clock companion: fixes native local multiplayer alarm ownership inside carried bags without changing containers or Singleplayer playback. Requires ZombieBuddy only.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/B42MPAlarmSoundFix.jar
+javaPkgName=antikristianos.b42mpalarmsoundfix
+ZBVersionMin=2.3.2
+modversion=1.0.1
+versionMin=42.22.0
+category=Multiplayer
+incompatible=B42MPAlarmSoundFix

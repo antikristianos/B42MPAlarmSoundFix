@@ -1,0 +1,64 @@
+{
+  "SchemaVersion": 1,
+  "Project": "B42MPAlarmSoundFix",
+  "Repository": "antikristianos/B42MPAlarmSoundFix",
+  "Branch": "wip",
+  "Tag": "wip-1.63",
+  "ModVersion": "1.0.1",
+  "CollectionVersion": "1.63",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "Artifact": {
+    "Path": "mods/B42MPAlarmSoundFix_WIP/42.22/media/java/B42MPAlarmSoundFix.jar",
+    "Size": 3302,
+    "Sha256": "C20235601012E3541463B92A0B11B75EBE0D0173DD924D7B373A3D6896480F07"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 163,
+      "Sha256": "95D9BA49A4F705EAFE9A9EA4AB6D7846405361DD6656FCA570739E5E5B28035D"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1457,
+      "Sha256": "568CFB14311C537A68CB138058CC9A2A38BB8981E74E3E493C999114460621F2"
+    },
+    {
+      "Path": "build.json",
+      "Size": 1031,
+      "Sha256": "0814E6DD431D6DADEA529322A245B6B128946EBCE88395170DF3BB79EE187885"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "runtime/42.22/mod.info",
+      "Size": 530,
+      "Sha256": "39CC96A424E7BC6B79A4A990D846B683CA05D6876D4E27BE14B5D7E7D386FE9D"
+    },
+    {
+      "Path": "src/antikristianos/b42mpalarmsoundfix/AlarmOwnerFix.java",
+      "Size": 1222,
+      "Sha256": "77462F6D30FB47B4AA2000FECBADD33EA4E5534360C1466C530C89DCEA8D13A8"
+    },
+    {
+      "Path": "src/antikristianos/b42mpalarmsoundfix/Main.java",
+      "Size": 415,
+      "Sha256": "85B205BED0DFE7E6AF1CC4A1378B79C562E882DBF49FBAE7929981A5BFD879AA"
+    },
+    {
+      "Path": "src/antikristianos/b42mpalarmsoundfix/PatchAlarmOwner.java",
+      "Size": 687,
+      "Sha256": "F3E76B2179D76A84B3DF04E47DA5E71E0C0F4589C99054DBF5DB0C0AD8B71586"
+    }
+  ]
+}
