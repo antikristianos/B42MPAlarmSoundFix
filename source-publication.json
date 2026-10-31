@@ -3,16 +3,16 @@
   "Project": "B42MPAlarmSoundFix",
   "Repository": "antikristianos/B42MPAlarmSoundFix",
   "Branch": "wip",
-  "Tag": "wip-1.73",
-  "ModVersion": "1.0.1",
-  "CollectionVersion": "1.73",
+  "Tag": "wip-1.74",
+  "ModVersion": "1.1",
+  "CollectionVersion": "1.74",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "2ABF9D7AF3EF37A06138798DA34248FB098D85FDFBDB9DAA6B4D0E1EDC4D139D",
+  "UploadManifestSha256": "6635C9922F3B93194AD831FAE10CB92BFD22908005B4DCD304C78185535870CF",
   "Artifact": {
     "Path": "mods/B42MPAlarmSoundFix_WIP/42.22/media/java/B42MPAlarmSoundFix.jar",
-    "Size": 3302,
-    "Sha256": "C20235601012E3541463B92A0B11B75EBE0D0173DD924D7B373A3D6896480F07"
+    "Size": 3301,
+    "Sha256": "17D0B5841C983E085DCC0E9A7CFB2D47A475713A0338C848027536CF6A284AD0"
   },
   "Sources": [
     {
@@ -22,13 +22,13 @@
     },
     {
       "Path": "MANIFEST.MF",
-      "Size": 163,
-      "Sha256": "95D9BA49A4F705EAFE9A9EA4AB6D7846405361DD6656FCA570739E5E5B28035D"
+      "Size": 161,
+      "Sha256": "D1854F0B09784D4DB76A64BEBF132A0351594E7DDE0BBA62D321A25EE5878665"
     },
     {
       "Path": "README.md",
-      "Size": 1457,
-      "Sha256": "568CFB14311C537A68CB138058CC9A2A38BB8981E74E3E493C999114460621F2"
+      "Size": 1455,
+      "Sha256": "B1E782D7673D517BD1D31F89A03F9B038C75C02ECA7A4E890D6C35D7748E25D2"
     },
     {
       "Path": "build.json",
@@ -42,8 +42,8 @@
     },
     {
       "Path": "runtime/42.22/mod.info",
-      "Size": 530,
-      "Sha256": "39CC96A424E7BC6B79A4A990D846B683CA05D6876D4E27BE14B5D7E7D386FE9D"
+      "Size": 528,
+      "Sha256": "C7D02CD3F13F90B99092EE1B79407D48120C9BB5186BB79F49D1FEEEE362B513"
     },
     {
       "Path": "src/antikristianos/b42mpalarmsoundfix/AlarmOwnerFix.java",
