@@ -3,16 +3,16 @@
   "Project": "B42MPAlarmSoundFix",
   "Repository": "antikristianos/B42MPAlarmSoundFix",
   "Branch": "main",
-  "Tag": "v1.0",
-  "ModVersion": "1.0",
+  "Tag": "v1.1",
+  "ModVersion": "1.1",
   "CollectionVersion": null,
   "WorkshopId": 3676283016,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3676283016",
-  "UploadManifestSha256": "5A8B24FF0A3C66B95F3DF79A247D0BEE337843830344534397D3CC425E002667",
+  "UploadManifestSha256": "D52472902285B12BFE0C49A222239C825DB4161FFCCE95759085B13CCC063BDB",
   "Artifact": {
-    "Path": "mods/B42MPAlarmSoundFix/42.21/media/java/B42MPAlarmSoundFix.jar",
-    "Size": 3299,
-    "Sha256": "ADF16368582CC1D5890DEA8DF58019BCF359037A8DB418194054971A63B4E264"
+    "Path": "mods/B42MPAlarmSoundFix/42.22/media/java/B42MPAlarmSoundFix.jar",
+    "Size": 3301,
+    "Sha256": "17D0B5841C983E085DCC0E9A7CFB2D47A475713A0338C848027536CF6A284AD0"
   },
   "Sources": [
     {
@@ -23,17 +23,17 @@
     {
       "Path": "MANIFEST.MF",
       "Size": 161,
-      "Sha256": "AA38E1C65B4CC80C0528E5192593D97F7441621FD34F502E6D7019BE2DECE25F"
+      "Sha256": "D1854F0B09784D4DB76A64BEBF132A0351594E7DDE0BBA62D321A25EE5878665"
     },
     {
       "Path": "README.md",
-      "Size": 1274,
-      "Sha256": "86A8E4E49620A2DD01A967B1C40830A2715ACCFECEFD59D757A4951E002CE9A9"
+      "Size": 1451,
+      "Sha256": "51D98CFC12903FDB83C940013A4A112924810C06843EA4D6B193FE9A98C9DC0E"
     },
     {
       "Path": "build.json",
       "Size": 1031,
-      "Sha256": "0814E6DD431D6DADEA529322A245B6B128946EBCE88395170DF3BB79EE187885"
+      "Sha256": "B346182ADDC040319F620711498613B413385A0EA7E31F2184D4EB64B401338F"
     },
     {
       "Path": "build.ps1",
@@ -41,9 +41,9 @@
       "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
     },
     {
-      "Path": "runtime/42.21/mod.info",
-      "Size": 520,
-      "Sha256": "2DFF47455EB0E22E45C1A955696B0DFC09D3364B3CF72AF8B8207E76A09E049C"
+      "Path": "runtime/42.22/mod.info",
+      "Size": 522,
+      "Sha256": "F60C80A3A8978D6D75D1C42615F9CCFF9BE3BFAF7CBF8A38B902F49BBF62C97C"
     },
     {
       "Path": "src/antikristianos/b42mpalarmsoundfix/AlarmOwnerFix.java",
