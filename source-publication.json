@@ -3,12 +3,12 @@
   "Project": "B42MPAlarmSoundFix",
   "Repository": "antikristianos/B42MPAlarmSoundFix",
   "Branch": "wip",
-  "Tag": "wip-1.83",
+  "Tag": "wip-1.84",
   "ModVersion": "1.1",
-  "CollectionVersion": "1.83",
+  "CollectionVersion": "1.84",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "B0983CE5AAB18AE48396CD36F752A6A31C01D20AF89B7AD8E665BE18C832D238",
+  "UploadManifestSha256": "8FD533D1C5DF3E2680193AC55A05A0C01046B4C42E3D20011526B56598AA6615",
   "Artifact": {
     "Path": "mods/B42MPAlarmSoundFix_WIP/42.22/media/java/B42MPAlarmSoundFix.jar",
     "Size": 3301,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 1031,
-      "Sha256": "4455733ECF97382E932CDE7DB269A60602B3D346644D10E4C3C1E37F5DC6F65E"
+      "Sha256": "ECC7439A13DC9BDF889EACAB0D7A7A704FB8272B7BF4572174E23D60841A7604"
     },
     {
       "Path": "build.ps1",
